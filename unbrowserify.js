@@ -1,7 +1,7 @@
 /*jslint node: true */
 "use strict";
 
-var uglifyJS = require("uglifyjs"),
+var uglifyJS = require("uglify-js"),
     fs = require("fs"),
     path = require("path"),
     decompress = require("./decompress");
