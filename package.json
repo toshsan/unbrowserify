@@ -9,7 +9,7 @@
     "test": "test"
   },
   "dependencies": {
-    "uglifyjs": "^2.4.10"
+    "uglify-js": "*"
   },
   "devDependencies": {
     "browserify": "^11.2.0",
