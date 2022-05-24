@@ -1,7 +1,7 @@
 /*jslint node: true */
 "use strict";
 
-var uglifyJS = require("uglifyjs"),
+var uglifyJS = require("uglify-js"),
     defaultOptions = {
         constants: true,
         sequences: true,
